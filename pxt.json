@@ -1,0 +1,21 @@
+{
+    "name": "air-we-share",
+    "description": "CO2 and air quality monitoring blocks for the BBC micro:bit, using the Kitronik Air Quality Board.",
+    "version": "0.1.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "pxt-kitronik-air-quality": "github:KitronikLtd/pxt-kitronik-air-quality"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "public": true
+}
